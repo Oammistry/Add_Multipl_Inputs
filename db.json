@@ -1,0 +1,193 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "EducationsField": [
+    {
+      "firstname": "oam",
+      "lastname": "mistry",
+      "email": "oammistry@gmail.com",
+      "Experience": "Male",
+      "qty": "",
+      "Repeats": [
+        {}
+      ],
+      "id": 1
+    },
+    {
+      "firstname": "oam",
+      "lastname": "mistry",
+      "email": "oammistry@gmail.com",
+      "Experience": "Male",
+      "qty": "",
+      "Repeats": [
+        {}
+      ],
+      "id": 2
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "Experience": "",
+      "qty": "",
+      "Repeats": [
+        {}
+      ],
+      "id": 3
+    },
+    {
+      "firstname": "oam",
+      "lastname": "Mistry",
+      "email": "oam@gmail.com",
+      "Experience": "Male",
+      "qty": "",
+      "Repeats": [
+        {},
+        {}
+      ],
+      "id": 4
+    },
+    {
+      "firstname": "om",
+      "lastname": "mistry",
+      "email": "oam@gamil.com",
+      "Experience": "Male",
+      "qty": "",
+      "Educations": "10",
+      "Repeats": [
+        {},
+        {}
+      ],
+      "id": 5
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "Experience": "",
+      "qty": "",
+      "Educations": "ww",
+      "Repeats": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "id": 6
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "Experience": "",
+      "qty": "",
+      "Education": "1",
+      "Educations": "",
+      "Repeats": [
+        {},
+        {},
+        {}
+      ],
+      "id": 7
+    },
+    {
+      "firstname": "oam",
+      "lastname": "mi",
+      "email": "sss@gmail.com",
+      "Experience": "Male",
+      "qty": "",
+      "Education": "10",
+      "Educations": "",
+      "Repeats": [
+        {},
+        {}
+      ],
+      "id": 8
+    },
+    {
+      "firstname": "o",
+      "lastname": "h",
+      "email": "e@gmail.com",
+      "Experience": "Male",
+      "qty": "",
+      "Education": "13",
+      "Educations": "",
+      "Repeats": [
+        {},
+        {}
+      ],
+      "id": 9
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "Experience": "",
+      "Education": "1",
+      "Repeats": [
+        {},
+        {}
+      ],
+      "id": 10
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "Experience": "",
+      "Education": "1",
+      "Repeats": [
+        {},
+        {}
+      ],
+      "id": 11
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "Experience": "",
+      "Education": "1",
+      "Repeats": [
+        {}
+      ],
+      "id": 12
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "Experience": "",
+      "Education": "10",
+      "Repeats": [],
+      "id": 13
+    },
+    {
+      "firstname": "oam",
+      "lastname": "mistry",
+      "email": "oammistry@gmail.com",
+      "Experience": "Male",
+      "Education": "10th",
+      "Repeats": [
+        "12th",
+        "13"
+      ],
+      "id": 14
+    }
+  ]
+}
